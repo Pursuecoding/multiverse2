@@ -26,7 +26,7 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ul {
-    font-size: 18px;
+    font-size: 14px;
     list-style: circle;
     padding-left: 60px;
 }
@@ -40,7 +40,7 @@ ul {
     padding: 30px 60px;
 }
 .concept, .theories {
-    font-size: 20px;
+    font-size: 14px;
     margin: 20px;
 }
 .learn-more {
